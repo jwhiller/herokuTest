@@ -6,6 +6,8 @@ ruby '2.4.1'
 gem 'carrierwave'
 gem 'boostrap-sass'
 gem 'faker'
+gem 'fog'
+gem 'figaro'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
 
